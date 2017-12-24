@@ -1,3 +1,5 @@
+### WARNING: This is a temporary branch, only left here for ktor support
+
 # networkinkt
 
 This is a simple HTTP client for Kotlin. It relies on coroutines on both JS & JVM platforms.
